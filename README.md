@@ -1,6 +1,6 @@
 # Reitems
 Minecraft Resourcepack, I reimagined the textures in Minecraft vanilla and some mods.
-
+我的世界资源包，我重新设计了我的世界原版和一些模组内的纹理。
 ## 概述 / Overview
 
 ### Why am I making this resource pack?
