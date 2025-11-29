@@ -1,6 +1,6 @@
 *This is only for submitting issues. For downloads, please go to Modrinth and XyeBBS.*
 
-*这里仅用于提交Issues，下载请到Modrinth和XyeBBS，翻译成英文。*
+*这里仅用于提交 Issues，下载请到 Modrinth 和 XyeBBS，翻译成英文。*
 
 # Reitems
 Minecraft Resourcepack, I reimagined the textures in Minecraft vanilla and some mods.
